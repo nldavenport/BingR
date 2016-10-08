@@ -1,7 +1,4 @@
 # BingR
-Bing Rewards using powershell
-
-BingR
 
 BingR is an Bing Search automation tool to gather Bing Reward points on a regular (daily) basis.
 
